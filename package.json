@@ -1,6 +1,6 @@
 {
   "name": "nodejs-noframeworks-simple-auth",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple nodejs webserver with auth without using any frameworks",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth/issues"
   },
-  "homepage": "https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth#readme"
+  "homepage": "https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-import": "^2.20.0"
+  }
 }

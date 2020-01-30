@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-noframeworks-simple-auth",
+  "version": "0.0.1",
+  "description": "Simple nodejs webserver with auth without using any frameworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "webserver",
+    "http",
+    "auth"
+  ],
+  "author": {
+    "name": "nikolasmelui",
+    "email": "slak@samaradom.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth/issues"
+  },
+  "homepage": "https://github.com/NikolasMelui/nodejs-noframeworks-simple-auth#readme"
+}
